@@ -19,6 +19,7 @@ Code tested on following environments, other version should also work:
 
 # For students from SJTU
 Please read [HEAR](EE369.md).
+
 使用pytorch框架，各问题的训练和测试准确率如下：
 |  |训练集准确率 | 测试集准确率 |
 | ------ |------| ------ |
@@ -26,5 +27,5 @@ Please read [HEAR](EE369.md).
 | Q2 | 81.90% | 80.30%|
 | Q3 | 97.80% | 85.10%|
 | Q4 | 93.68% | 88.30%|
-| Q5 | 99.92% | 99.58%|
+| Q5 | 99.67% | 99.51%|
  
