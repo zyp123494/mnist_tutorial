@@ -19,3 +19,7 @@ Code tested on following environments, other version should also work:
 
 # For students from SJTU
 Please read [HEAR](EE369.md).
+使用pytorch框架，各问题的训练和测试准确率如下：
+| 内容 | 内容 |
+| ------ | ------ |
+| 内容 | 内容 |
